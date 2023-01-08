@@ -1,6 +1,7 @@
 <div align="center">
 
-https://user-images.githubusercontent.com/97909617/211216846-e28a5bce-edce-48fd-8554-5e52cfaabf80.mp4
+<!-- https://user-images.githubusercontent.com/97909617/211216846-e28a5bce-edce-48fd-8554-5e52cfaabf80.mp4 -->
+![3000](https://user-images.githubusercontent.com/97909617/211217091-fa8e848c-6f5d-453c-8f9a-8df8f343ea6c.gif)
 
 
 <!-- <video width="320" height="240" controls>
@@ -24,7 +25,7 @@ https://user-images.githubusercontent.com/97909617/211216846-e28a5bce-edce-48fd-
 - ❓ Ask me anything related to Data Analysis and related technologies  
   
 
-- 🤪 Fun fact: I do crack some technology related jokes when I'm really enjoying my work  
+- 📫 Get in touch with me: zainabsalahuddin@gmail.com / syedazainab3402@outlook.com
   
 
 <br/>  
