@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="" align="center" height="" width="600" />
-</div>  
+</div>   -->
   
 
 ## <div align="center">Data Analyst | Front-End Developer</div>  
@@ -91,4 +91,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
