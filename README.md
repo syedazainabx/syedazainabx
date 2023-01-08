@@ -1,6 +1,6 @@
 <!-- <div align="center">
-<img src="" align="center" height="" width="600" />
-</div>   -->
+<img src="https://www.canva.com/design/DAFXGkLJwlY/d9A_FBkEcqVfEEWsxHjWHA/view?utm_content=DAFXGkLJwlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center" height="360x" width="640px" />
+</div> -->
   
 
 ## <div align="center">Data Analyst | Front-End Developer</div>  
