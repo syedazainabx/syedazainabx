@@ -25,7 +25,7 @@
 - ❓ Ask me anything related to Data Analysis and related technologies  
   
 
-- 📫 Get in touch with me: zainabsalahuddin2994@gmail.com / syedazainab3402@outlook.com
+- 📫 Get in touch with me: zainabsalahuddin2994@gmail.com 
   
 
 <br/>  
